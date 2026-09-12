@@ -220,7 +220,7 @@ export default function Hero() {
             <div>
 
               <p className="text-[26px] font-bold text-white sm:text-[34px]">
-                130K+
+                500K+
               </p>
 
               <p className="text-[11px] text-white/50 sm:text-[13px]">
@@ -268,7 +268,7 @@ export default function Hero() {
             <div>
 
               <p className="text-[26px] font-bold text-white sm:text-[34px]">
-                250K+
+                500K+
               </p>
 
               <p className="text-[11px] text-white/50 sm:text-[13px]">
@@ -296,7 +296,7 @@ export default function Hero() {
         {[
           ["130K+", "Highest LinkedIn Reach", "On a single post"],
           ["250K+", "Monthly Impressions", "Across LinkedIn & Instagram"],
-          ["17K+", "Comments Generated", "Organic engagement"],
+          ["17K+", "On a single comment Generated", "Organic engagement"],
           ["500+", "Founders & CEOs", "Worked with"],
         ].map(([number, title, subtitle], index) => (
 
