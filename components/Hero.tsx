@@ -296,7 +296,7 @@ export default function Hero() {
         {[
           ["130K+", "Highest LinkedIn Reach", "On a single post"],
           ["550K+", "Monthly Impressions", "Across LinkedIn & Instagram"],
-          ["17K+", "On a single comment Generated", "Organic engagement"],
+          ["17K+", "Impressions on a single comment Generated", "Organic engagement"],
           ["50+", "Founders & CEOs", "Worked with"],
         ].map(([number, title, subtitle], index) => (
 
