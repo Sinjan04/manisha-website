@@ -533,7 +533,7 @@ export default function ContactPage() {
                 href="mailto:manishamandal@gmail.com"
                 className="text-white/60 transition-colors duration-300 hover:text-[#D68A55]"
               >
-                manishamandal@gmail.com
+                innovativeedge.manisha@gmail.com
               </a>
 
             </div>
